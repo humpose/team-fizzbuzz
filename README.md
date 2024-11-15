@@ -1,4 +1,4 @@
-# Project Name
+# Aeat
 
 ![Project Image](https://github.com/user-attachments/assets/sample-image-url)
 
