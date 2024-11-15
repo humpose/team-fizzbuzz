@@ -62,8 +62,7 @@
 
 ## 📜 API 명세서
 
-- **인증 관련 API**
-- **콘텐츠 관리 API**
+- [API Docs](https://quickest-asterisk-75d.notion.site/Ben-Potato-7ccefe723eca4df6a015e6cbf139fd0c?p=bae119239d30411285fdbfe7756518a0&pm=s)
 
 ## 🔗 링크 모음
 
