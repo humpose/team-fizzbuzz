@@ -23,13 +23,13 @@
 
 ## 👥 팀원 소개
 
-| [<img src="https://avatars.githubusercontent.com/u/62774721?v=4" width="100px">](https://github.com/anaconda77) | [<img src="https://avatars.githubusercontent.com/u/74302278?v=4" width="100px">](https://github.com/Dockerel) | [<img src="https://avatars.githubusercontent.com/u/114137788?v=4" width="100px">](https://github.com/hyeywon) |
+| [<img src="https://avatars.githubusercontent.com/u/62774721?v=4" width="100px">](https://github.com/jjh4450) | [<img src="https://avatars.githubusercontent.com/u/74302278?v=4" width="100px">](https://github.com/youcastle03) | [<img src="https://avatars.githubusercontent.com/u/114137788?v=4" width="100px">](https://github.com/peacefullyquietly) |
 |:---------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
-|                                   [경북대 BE 신성민](https://github.com/anaconda77)                                   |                                   [경북대 BE 도기헌](https://github.com/Dockerel)                                   |                                   [경북대 BE 석혜원](https://github.com/hyeywon)                                    |
+|                                   [강원대 BE 조준환](https://github.com/jjh4450)                                   |                                   [강원대 BE 최유성](https://github.com/youcastle03)                                   |                                   [강원대 BE 박지](https://github.com/peacefullyquietly)                                    |
 
-| [<img src="https://avatars.githubusercontent.com/u/128658727?v=4" width="100px">](https://github.com/xkrwjdals) | [<img src="https://avatars.githubusercontent.com/u/114985804?v=4" width="100px">](https://github.com/yjhannn) |
-|:---------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
-|                                   [경북대 BE 탁정민](https://github.com/xkrwjdals)                                    |                                   [경북대 BE 한영진](https://github.com/yjhannn)                                    |
+| [<img src="https://avatars.githubusercontent.com/u/62774721?v=4" width="100px">](https://github.com/humpose) | [<img src="https://avatars.githubusercontent.com/u/74302278?v=4" width="100px">](https://github.com/dandamdandam) | [<img src="https://avatars.githubusercontent.com/u/114137788?v=4" width="100px">](https://github.com/codus1718) |
+|:---------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+|                                   [강원대 BE 오승환](https://github.com/humpose)                                   |                                   [강원대 FE 정다연](https://github.com/dandamdandam)                                   |                                   [강원대 FE 이채연](https://github.com/codus1718)                                    |
 
 ## 💡 주요 기능
 
@@ -50,6 +50,7 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ## 📚 ERD & 아키텍처
