@@ -23,9 +23,13 @@
 
 ## 👥 팀원 소개
 
-- **팀원 A** - 역할: 백엔드 개발자
-- **팀원 B** - 역할: 프론트엔드 개발자
-- **팀원 C** - 역할: 디자이너
+| [<img src="https://avatars.githubusercontent.com/u/62774721?v=4" width="100px">](https://github.com/anaconda77) | [<img src="https://avatars.githubusercontent.com/u/74302278?v=4" width="100px">](https://github.com/Dockerel) | [<img src="https://avatars.githubusercontent.com/u/114137788?v=4" width="100px">](https://github.com/hyeywon) |
+|:---------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+|                                   [경북대 BE 신성민](https://github.com/anaconda77)                                   |                                   [경북대 BE 도기헌](https://github.com/Dockerel)                                   |                                   [경북대 BE 석혜원](https://github.com/hyeywon)                                    |
+
+| [<img src="https://avatars.githubusercontent.com/u/128658727?v=4" width="100px">](https://github.com/xkrwjdals) | [<img src="https://avatars.githubusercontent.com/u/114985804?v=4" width="100px">](https://github.com/yjhannn) |
+|:---------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+|                                   [경북대 BE 탁정민](https://github.com/xkrwjdals)                                    |                                   [경북대 BE 한영진](https://github.com/yjhannn)                                    |
 
 ## 💡 주요 기능
 
