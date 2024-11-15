@@ -10,9 +10,6 @@
 - [📚 ERD & 아키텍처](#-erd--아키텍처)
 - [📜 API 명세서](#-api-명세서)
 - [🔗 링크 모음](#-링크-모음)
-- [🚀 배포 가이드](#-배포-가이드)
-- [📄 시작하기](#-시작하기)
-- [🤝 그라운드 룰](#-그라운드-룰)
 
 ---
 
@@ -85,24 +82,4 @@
 
   [Coding Convention](https://quickest-asterisk-75d.notion.site/Ben-Potato-7ccefe723eca4df6a015e6cbf139fd0c?p=9076a9f32a3a4fb0a20e0c41045c9e6f&pm=s)
 
-## 🚀 배포 가이드
-
-- **배포 환경**: AWS, Docker, CI/CD 사용 방법
-
-## 📄 시작하기
-
-> **의존성 설치 및 프로젝트 시작 가이드**:
-> ```bash
-> git clone https://github.com/your-project.git
-> cd project
-> npm install
-> npm start
-> ```
-
-## 🤝 그라운드 룰
-
-- **코드 컨벤션**: 일관된 코드 스타일을 유지
-- **커뮤니케이션**: 매일 짧은 스탠드업 회의
-
----
 
