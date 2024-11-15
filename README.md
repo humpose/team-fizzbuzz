@@ -82,4 +82,7 @@
 
   [Coding Convention](https://quickest-asterisk-75d.notion.site/Ben-Potato-7ccefe723eca4df6a015e6cbf139fd0c?p=9076a9f32a3a4fb0a20e0c41045c9e6f&pm=s)
 
+- ### 🤝그라운드 룰
+
+  [Ground Rule](https://quickest-asterisk-75d.notion.site/Ben-Potato-7ccefe723eca4df6a015e6cbf139fd0c?p=970ccd298d744198bc44924ebedb7d6d&pm=s)
 
