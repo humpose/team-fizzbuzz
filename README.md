@@ -23,7 +23,7 @@
 
 ## 👥 팀원 소개
 
-| [<img src="https://avatars.githubusercontent.com/u/62774721?v=4" width="100px">](https://github.com/jjh4450) | [<img src="https://avatars.githubusercontent.com/u/74302278?v=4" width="100px">](https://github.com/youcastle03) | [<img src="https://avatars.githubusercontent.com/u/114137788?v=4" width="100px">](https://github.com/peacefullyquietly) |
+| [<img src="https://avatars.githubusercontent.com/Jeje" width="100px">](https://github.com/jjh4450) | [<img src="https://avatars.githubusercontent.com/u/74302278?v=4" width="100px">](https://github.com/youcastle03) | [<img src="https://avatars.githubusercontent.com/u/114137788?v=4" width="100px">](https://github.com/peacefullyquietly) |
 |:---------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
 |                                   [강원대 BE 조준환](https://github.com/jjh4450)                                   |                                   [강원대 BE 최유성](https://github.com/youcastle03)                                   |                                   [강원대 BE 박지희](https://github.com/peacefullyquietly)                                    |
 
