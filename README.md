@@ -1,6 +1,7 @@
 # Aeat
 
-![Project Image](https://github.com/user-attachments/assets/sample-image-url)
+![Project Image](![image](https://github.com/user-attachments/assets/047238d3-fd2a-4810-9286-e85b7bbb6c5e)
+)
 
 ## 목차
 - [🚀 프로젝트 소개](#-프로젝트-소개)
