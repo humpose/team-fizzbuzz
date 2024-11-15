@@ -41,6 +41,11 @@
 - ### 프론트엔드
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-5A29E4?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-FF4154?style=for-the-badge&logo=supabase&logoColor=white)
+  ![Upstash](https://img.shields.io/badge/Upstash-CA4245?style=for-the-badge&logo=upstash&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  
 - ### 백엔드
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 - ### 데이터베이스
