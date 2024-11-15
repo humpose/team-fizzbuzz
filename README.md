@@ -71,13 +71,27 @@
 
 ## 🔗 링크 모음
 
-- **프로젝트 페이지**: [https://aeat.jeje.work](https://aeat.jeje.work)
+- **프로젝트 사이트**: [https://aeat.jeje.work](https://aeat.jeje.work)
 - **노션 문서**: [노션 링크](https://quickest-asterisk-75d.notion.site/Ben-Potato-7ccefe723eca4df6a015e6cbf139fd0c)
+- ### 🖥️배포 링크
+
+  **프로젝트 사이트**: [https://aeat.jeje.work](https://aeat.jeje.work)
+
+- ### 🤝그라운드 룰
+
+[Ground Rule](https://quickest-asterisk-75d.notion.site/de33c852391d4e1599721de6136e9c3a?p=93d3274c7a8b4d159b38b16115c3ff42&pm=s)
+
+- ### 📜커밋 컨벤션
+
+[Commit Convention](https://quickest-asterisk-75d.notion.site/de33c852391d4e1599721de6136e9c3a?p=17afc129cb144bfea2fc3cea94ea153d&pm=s)
+
+- ### 👨‍💻코딩 컨벤션
+
+[Coding Convention](https://quickest-asterisk-75d.notion.site/de33c852391d4e1599721de6136e9c3a?p=833e57b063094194b6150558d89af6ec&pm=s)
 
 ## 🚀 배포 가이드
 
 - **배포 환경**: AWS, Docker, CI/CD 사용 방법
-- **배포 링크**: [서비스 링크](#)
 
 ## 📄 시작하기
 
