@@ -77,16 +77,13 @@
 
   **프로젝트 사이트**: [https://aeat.jeje.work](https://aeat.jeje.work)
 
-- ### 🤝그라운드 룰
-  [Ground Rule](https://quickest-asterisk-75d.notion.site/de33c852391d4e1599721de6136e9c3a?p=93d3274c7a8b4d159b38b16115c3ff42&pm=s)
-
 - ### 📜커밋 컨벤션
 
-  [Commit Convention](https://quickest-asterisk-75d.notion.site/de33c852391d4e1599721de6136e9c3a?p=17afc129cb144bfea2fc3cea94ea153d&pm=s)
+  [Commit Convention](https://quickest-asterisk-75d.notion.site/Ben-Potato-7ccefe723eca4df6a015e6cbf139fd0c?p=a836423c43b94ae8833111fcd0ddeb7e&pm=s)
 
 - ### 👨‍💻코딩 컨벤션
 
-  [Coding Convention](https://quickest-asterisk-75d.notion.site/de33c852391d4e1599721de6136e9c3a?p=833e57b063094194b6150558d89af6ec&pm=s)
+  [Coding Convention](https://quickest-asterisk-75d.notion.site/Ben-Potato-7ccefe723eca4df6a015e6cbf139fd0c?p=9076a9f32a3a4fb0a20e0c41045c9e6f&pm=s)
 
 ## 🚀 배포 가이드
 
