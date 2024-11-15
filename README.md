@@ -56,7 +56,7 @@
 ## 📚 ERD & 아키텍처
 
 - **ERD**
-- ![Untitled (1)](https://github.com/user-attachments/assets/d128252a-1b3e-4632-97af-78f31b51a2a8)
+![Untitled (1)](https://github.com/user-attachments/assets/d128252a-1b3e-4632-97af-78f31b51a2a8)
 
 - **서비스 아키텍처**: 주요 서비스 간 연결과 흐름 설명
 
