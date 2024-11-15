@@ -67,8 +67,8 @@
 
 ## 🔗 링크 모음
 
-- **프로젝트 페이지**: [https://example.com](https://example.com)
-- **노션 문서**: [노션 링크](#)
+- **프로젝트 페이지**: [https://example.com](https://aeat.jeje.work)
+- **노션 문서**: [노션 링크](https://quickest-asterisk-75d.notion.site/Ben-Potato-7ccefe723eca4df6a015e6cbf139fd0c?p=bae119239d30411285fdbfe7756518a0&pm=s)
 
 ## 🚀 배포 가이드
 
